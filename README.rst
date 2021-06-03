@@ -14,13 +14,12 @@ The Royal directory contains:
 - the entire raw text in Tysor 1949 (lines 1-3497, pp. 1-124) and Allen
   1951 (lines 3498-7257, pp. 1-173)
 - an uncorrected draft parse of Tysor 1949, lines 2408-3000, pp. 85-106
-  (7,223 words, starting where the PPPCHF sample ends, but not
+  (7,223 words, starting where the PPCHF sample ends, but not
   continuing to the end of Tysor 1949)
 
-The Cotton manuscript is likely the basis for the translation of the
-Somme into Middle English that goes by the name of *Ayenbite of Inwyt*,
-which is included in the Penn-Helsinki Parsed Corpus of Middle English,
-second edition
+The Cotton manuscript is likely the basis for the translation into Middle 
+English that goes by the name of *Ayenbite of Inwyt*, which is included 
+in the Penn-Helsinki Parsed Corpus of Middle English, second edition
 <https://www.ling.upenn.edu/hist-corpora/PPCME2-RELEASE-4/index.html>.
 The Cotton directory contains:
 
