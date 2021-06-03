@@ -139,8 +139,10 @@ vraiem~t o@ @u gibet de penitance sans
 feintise e sans ypocrisie.
 
 <heading>
-La quarte b~nce d#
-umilite. {COM:largely_illegible_but_restored_from_mazarin_ms.}
+La
+quarte b~nce d#
+{COM:previous_three_words_illegible;_differs_from_line_3674_of_mazarine_ms.}
+umilite.
 </heading>
 
 Qui het orguel il aime povrete. qui
@@ -219,8 +221,9 @@ de bien. e plus se fie en lor aide
 qu# il ne fait en ses propres biens.
 
 <heading>
-La quinte b~nce d#
-umilite. {COM:largely_illegible_but_restored_from_mazarin_ms.}
+La quinte
+b~nce d# umilite.
+{COM:largely_illegible;_differs_from_line_3718_of_mazarine_ms.}
 </heading>
 
 Orgueil aime haut lieus . humilite

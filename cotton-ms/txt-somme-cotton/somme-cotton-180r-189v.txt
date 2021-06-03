@@ -393,7 +393,7 @@ p~ volente ne p~ desirrer. mais soi
 esloigner tant com il puet jusqu# il
 soit en la montaigne de p~fection. e
 iloec
-{COM:previous_word_restored_from_mazarin_ms.}
+{COM:partly_illegible;_cf._line_6666_of_mazarine_ms.}
 doit entendre a son salu sanz
 regard~ derier soi.  La femme loth
 regarda deriere soi la cite qui
@@ -573,11 +573,11 @@ beneurte que cil attendent qui
 garent nettete de cuer e de cors.
 
 <heading>
-D@ @ou don de sapience . de v~tu d# atemprance e de sobriete.
-{COM:partially_restored_from_mazarin_ms.}
+D@ @ou don de sapience . de v~tu d# atemprance e de sobrete.
+{COM:largely_illegible;_cf._line_6760_of_mazarine_ms.}
 </heading>
 
-Li darrein don e lis sovrein e li
+Li darrein don e li sovrein e li
 plus haut est le don de sapience +k
 est une grace que saint esperit done
 a cuer contemplatif par quoi il est

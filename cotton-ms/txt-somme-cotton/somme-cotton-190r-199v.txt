@@ -199,7 +199,8 @@ vient d@ @u don de sapience sico~me
 j# ai pardesus dit.
 
 <heading>
-{COM:illegible} de sobrete
+{COM:previous_two_words_illegible;_line_6972_of_mazarine_ms._doesn't_help}
+de sobrete
 </heading>
 
 Sico~me je ai desus moustre. sobrete

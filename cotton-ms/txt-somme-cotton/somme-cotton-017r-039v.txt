@@ -3256,7 +3256,7 @@ Jude
 <heading>
 le
 .xij.
-{COM:previous_two_words_illegible_in_original}
+{COM:previous_two_words_illegible;_cf._line_285_of_mazarine_ms.}
 article
 .
 <$$heading>
@@ -7516,10 +7516,10 @@ monde
 La
 .vi.
 b~che
+{COM:previous_three_words_illegible;_cf._line_609_of_mazarine_ms.}
 d#
 orgoil
 .
-{COM:heading_largely_illegible}
 <$$heading>
 
 La

@@ -2221,9 +2221,7 @@ de
 berbiz
 .
 
-<heading>
-{COM:illegible}
-<$$heading>
+{COM:smudge}
 
 Li
 utime
