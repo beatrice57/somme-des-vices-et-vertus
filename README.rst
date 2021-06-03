@@ -52,7 +52,6 @@ Allen, Edward Herbert, ed.
 Somme des vices et des vertus: Part II.
 M.A. thesis, University of North Carolina.
 
-<p>
 Brayer, Edith and Anne-Francoise Leurquin-Labie,
 eds.
 2008.
