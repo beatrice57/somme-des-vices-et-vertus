@@ -30,6 +30,9 @@ The Cotton directory contains:
 
 The text encoding throughout is UTF-8.
 
+There exists a further manuscript, MS Mazarine 870, closer to the Cotton
+than to the Royal (Brayer and Leurquin-Labie 2008).
+
 License
 =======
 
@@ -53,11 +56,10 @@ M.A. thesis, University of North Carolina.
 
 Brayer, Edith and Anne-Francoise Leurquin-Labie,
 eds.
-2008.
-La *Somme Le Roi* par Frere Laurent.
-Paris:
-Societe des anciens texts francais.
-Based on Brayer's 1940 doctoral dissertation.
+2008.  La *Somme Le Roi* par Frere Laurent.  Paris: Societe des anciens
+texts francais.  Fully revised version of Brayer's 1940 doctoral
+dissertation, with a glossary, a helpful introduction, and notes on the
+text.
 
 Tysor, Ann Brooks, ed.
 1949.
