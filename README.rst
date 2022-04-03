@@ -7,20 +7,20 @@ medieval French text *Somme des vices et vertus*
 the Royal ms. and the Cotton ms.
 
 The Royal manuscript is the text underlying the parsed sample (Tysor
-1949, lines 1-2407, pp. 1-85) in the Penn-BFM Parsed Corpus of
+1949, lines 1-3000, pp. 1-106) in the Penn-BFM Parsed Corpus of
 Historical French <https://github.com/beatrice57/mcvf-plus-ppchf>.
+Lines 2408-3000 were added on April 2, 2022.
+
 The Royal directory contains:
 
 - the entire raw text in Tysor 1949 (lines 1-3497, pp. 1-124) and Allen
   1951 (lines 3498-7257, pp. 1-173)
-- an uncorrected draft parse of Tysor 1949, lines 2408-3000, pp. 85-106
-  (7,223 words, starting where the PPCHF sample ends, but not
-  continuing to the end of Tysor 1949)
 
 The Cotton manuscript is likely the basis for the translation into Middle 
 English that goes by the name of *Ayenbite of Inwyt*, which is included 
 in the Penn-Helsinki Parsed Corpus of Middle English, second edition
 <https://www.ling.upenn.edu/hist-corpora/PPCME2-RELEASE-4/index.html>.
+
 The Cotton directory contains:
 
 - page images of the manuscript supplied by Suzanne Evans Wagner

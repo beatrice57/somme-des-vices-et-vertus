@@ -14,7 +14,7 @@
 #13 pour ce le deussent il loer et mercier, et sur toutes choses amer et
 #14 honnourer, si comme nous enseigne cest premier commandement.
 #15 
-#16 <heading> Le Secont Commandement de la loy <$$heading>
+D#16 <heading> Le Secont Commandement de la loy <$$heading>
 #17 
 #18 Li secons commandemens est tels: "Tu ne prendras mie le non de ton Dieu
 #19 en vain." C'est a dire, tu ne jureras mie pour nient et sanz bonne cause. Ce
