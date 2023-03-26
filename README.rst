@@ -54,12 +54,12 @@ Allen, Edward Herbert, ed.
 Somme des vices et des vertus: Part II.
 M.A. thesis, University of North Carolina.
 
-Brayer, Edith and Anne-Francoise Leurquin-Labie,
+Brayer, Edith and Anne-Françoise Leurquin-Labie,
 eds.
-2008.  La *Somme Le Roi* par Frere Laurent.  Paris: Societe des anciens
-texts francais.  Fully revised version of Brayer's 1940 doctoral
-dissertation, with a glossary, a helpful introduction, and notes on the
-text.
+2008.  La *Somme Le Roi* par Frère Laurent.  Paris: Société des anciens
+textes français.  F. Paillart.  Fully revised version of Brayer's 1940
+doctoral dissertation, with a glossary, a helpful introduction, and notes
+on the text.
 
 Tysor, Ann Brooks, ed.
 1949.
